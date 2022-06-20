@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "74OqdQgsGfFVa9bSbpIbNh1E4ReYa/vl9tbvSHDWEv2uxVIjY1sg7uHGOmE5+pVuiBjAqygDeaYZJ6G8suo8nA==",
+  "success": true,
+  "projectFilePath": "/Users/devincarlisle/Desktop/repos/OperatorExercises/OperatorExercises/OperatorExercises.csproj",
+  "expectedPackageFiles": [
+    "/Users/devincarlisle/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/devincarlisle/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.25/microsoft.netcore.app.host.osx-x64.3.1.25.nupkg.sha512",
+    "/Users/devincarlisle/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

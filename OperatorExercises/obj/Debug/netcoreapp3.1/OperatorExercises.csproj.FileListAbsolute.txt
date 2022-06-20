@@ -1,0 +1,14 @@
+/Users/devincarlisle/Desktop/repos/OperatorExercises/OperatorExercises/obj/Debug/netcoreapp3.1/OperatorExercises.csproj.AssemblyReference.cache
+/Users/devincarlisle/Desktop/repos/OperatorExercises/OperatorExercises/obj/Debug/netcoreapp3.1/OperatorExercises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/devincarlisle/Desktop/repos/OperatorExercises/OperatorExercises/obj/Debug/netcoreapp3.1/OperatorExercises.AssemblyInfoInputs.cache
+/Users/devincarlisle/Desktop/repos/OperatorExercises/OperatorExercises/obj/Debug/netcoreapp3.1/OperatorExercises.AssemblyInfo.cs
+/Users/devincarlisle/Desktop/repos/OperatorExercises/OperatorExercises/obj/Debug/netcoreapp3.1/OperatorExercises.csproj.CoreCompileInputs.cache
+/Users/devincarlisle/Desktop/repos/OperatorExercises/OperatorExercises/bin/Debug/netcoreapp3.1/OperatorExercises
+/Users/devincarlisle/Desktop/repos/OperatorExercises/OperatorExercises/bin/Debug/netcoreapp3.1/OperatorExercises.deps.json
+/Users/devincarlisle/Desktop/repos/OperatorExercises/OperatorExercises/bin/Debug/netcoreapp3.1/OperatorExercises.runtimeconfig.json
+/Users/devincarlisle/Desktop/repos/OperatorExercises/OperatorExercises/bin/Debug/netcoreapp3.1/OperatorExercises.runtimeconfig.dev.json
+/Users/devincarlisle/Desktop/repos/OperatorExercises/OperatorExercises/bin/Debug/netcoreapp3.1/OperatorExercises.dll
+/Users/devincarlisle/Desktop/repos/OperatorExercises/OperatorExercises/bin/Debug/netcoreapp3.1/OperatorExercises.pdb
+/Users/devincarlisle/Desktop/repos/OperatorExercises/OperatorExercises/obj/Debug/netcoreapp3.1/OperatorExercises.dll
+/Users/devincarlisle/Desktop/repos/OperatorExercises/OperatorExercises/obj/Debug/netcoreapp3.1/OperatorExercises.pdb
+/Users/devincarlisle/Desktop/repos/OperatorExercises/OperatorExercises/obj/Debug/netcoreapp3.1/OperatorExercises.genruntimeconfig.cache
